@@ -5,5 +5,5 @@ Answers to "Applied Numerical Methods (応用数値計算法)", which is a lectu
 ## MacOS
 In each directories, run
 ```
-g++ main.cpp
+g++ -std=c++11 main.cpp
 ```
